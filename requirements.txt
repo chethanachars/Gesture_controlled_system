@@ -1,0 +1,6 @@
+Pillow~=8.2.0
+opencv-python
+mediapipe
+numpy
+pandas
+python-vlc
